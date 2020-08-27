@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/mydb",
+    "prod_uri": "mysql://root:@localhost/mydb",
+    "ln_url": "https://linkedin.com",
+    "fb_url": "https://facebook.com",
+    "git_url": "https://github.com",
+    "tag_line": "Heaven for Developers",
+    "about_text": "Hi my name is Akshat",
+    "no_of_posts": 3,
+    "login_image": "login.avg",
+    "tagline": "The Future is now",
+    "admin_user": "agrawalakshat093@gmail.com",
+    "admin_passwd": "rs0vr90wwc"
+
+  }
+}
